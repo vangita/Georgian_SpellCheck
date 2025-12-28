@@ -32,3 +32,6 @@ data/
 models/
 *.pt
 *.pth
+
+# JetBrains
+.idea/
